@@ -9,4 +9,4 @@ if age >= 21 and country == 'USA':
 elif age >= 18 and country == 'COL':
     print('You can buy alcohol')
 else
-    print()
+    print('you can not but alcohol')
